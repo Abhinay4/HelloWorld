@@ -1,9 +1,8 @@
 public class Hello{  
 public static void main(String[] args) {  
-    //Code of Java for loop  
-    for(int i=1;i<=10;i++){  
-        System.out.println("Abhinay...."+i);  
-    }  
-	System.out.println("Hello Babba");  
+    
+	System.out.println("Hello Baba");  
+	System.out.println("Hello Abhinay"); 
+	System.out.println("Hello Pareta"); 
 }  
 }  
